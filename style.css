@@ -10,7 +10,7 @@ header {
   background-color: #1a73e8;
   color: white;
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 10px;
 }
 .header-container {
   display: flex;

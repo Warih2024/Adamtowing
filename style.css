@@ -140,18 +140,18 @@ body {
 }
 
 .services {
-  padding: 1rem;
+  padding:0.5rem;
 }
 
 .card {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .card-content {
   display: flex;
   flex-wrap: wrap; /* Allows wrapping for smaller screens */
   align-items: center;
-  gap: 1rem;
+  gap: 0.5rem;
 }
 
 .service-logo {

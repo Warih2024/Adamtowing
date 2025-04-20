@@ -15,7 +15,7 @@ header {
 .header-container {
   display: flex;
   align-items: center;
-  gap: 1rem; /* Space between the logo and the header content */
+  gap: 0.5rem; /* Space between the logo and the header content */
 }
 
 .logo {

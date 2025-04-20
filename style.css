@@ -47,7 +47,7 @@ header p {
 .card-content {
   display: flex;
   align-items: center;
-  gap: 1rem; /* Space between the logo and the text */
+  gap: 0.5rem; /* Space between the logo and the text */
 }
 
 .service-logo {

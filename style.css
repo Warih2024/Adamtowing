@@ -28,8 +28,10 @@ header {
   flex-direction: column;
 }
 header h1 {
-  margin: 0;
-  font-size: 5rem;
+    margin: 0; /* Already set */
+    font-size: 5rem; /* Keep the font size as is or adjust as needed */
+    line-height: 1.2; /* Reduce the vertical spacing */
+    letter-spacing: -0.5px; /* Reduce spacing between letters */
 }
 
 header p {

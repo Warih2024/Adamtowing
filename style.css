@@ -10,12 +10,12 @@ header {
   background-color: #1a73e8;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 2rem 1rem;
 }
 .header-container {
   display: flex;
   align-items: center;
-  gap: 5px; /* Space between the logo and the header content */
+  gap: 1rem; /* Space between the logo and the header content */
 }
 
 .logo {
@@ -29,7 +29,7 @@ header {
 }
 header h1 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 5rem;
 }
 
 header p {
@@ -47,7 +47,7 @@ header p {
 .card-content {
   display: flex;
   align-items: center;
-  gap: 0.5rem; /* Space between the logo and the text */
+  gap: 1rem; /* Space between the logo and the text */
 }
 
 .service-logo {
@@ -92,7 +92,7 @@ form {
 
 form input, form select {
   width: 100%;
-  padding: 1rem;
+  padding: 0.5rem;
   margin-bottom: 1rem;
   border: 1px solid #ccc;
   border-radius: 3px;
@@ -114,6 +114,7 @@ footer {
   color: white;
   font-size: 0.9rem;
 }
+
 /* General styles for mobile responsiveness */
 body {
   margin: 0;
@@ -140,18 +141,18 @@ body {
 }
 
 .services {
-  padding:0.5rem;
+  padding: 1rem;
 }
 
 .card {
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .card-content {
   display: flex;
   flex-wrap: wrap; /* Allows wrapping for smaller screens */
   align-items: center;
-  gap: 0.5rem;
+  gap: 1rem;
 }
 
 .service-logo {
@@ -179,13 +180,14 @@ body {
     max-width: 80px; /* Further reduce logo size for smaller screens */
   }
 }
+
 .whatsapp-float {
   position: fixed;
   bottom: 20px;
   right: 20px;
   background-color: #25D366;
   color: white;
-  padding: 1rem 1rem;
+  padding: 0.8rem 1rem;
   border-radius: 50px;
   text-decoration: none;
   font-weight: bold;

@@ -116,6 +116,12 @@ footer {
   color: white;
   font-size: 0.9rem;
 }
+.map iframe {
+  width: 100%; /* Make it take the full width of its container */
+  height: auto; /* Adjust the height automatically */
+  max-width: 100%; /* Ensure it doesn't exceed the container's width */
+  border: 0; /* Optional: remove the border for a cleaner look */
+}
 
 /* General styles for mobile responsiveness */
 body {

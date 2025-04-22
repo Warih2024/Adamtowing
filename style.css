@@ -29,7 +29,7 @@ header {
 }
 header h1 {
     margin: 0; /* Already set */
-    font-size: 5rem; /* Keep the font size as is or adjust as needed */
+    font-size: 3rem; /* Keep the font size as is or adjust as needed */
     line-height: 1; /* Reduce the vertical spacing further */
     letter-spacing: -0.5px; /* Reduce spacing between letters */
 }
@@ -63,12 +63,12 @@ header p {
 }
 
 section {
-  padding: 1.5rem;
+  padding: 1rem;
 }
 
 .about p, .services p, .testimonials blockquote {
   font-size: 1rem;
-  line-height: 1.5;
+  line-height: 1;
 }
 
 .services .card {

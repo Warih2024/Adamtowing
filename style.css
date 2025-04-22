@@ -30,7 +30,7 @@ header {
 header h1 {
     margin: 0; /* Already set */
     font-size: 5rem; /* Keep the font size as is or adjust as needed */
-    line-height: 1.2; /* Reduce the vertical spacing */
+    line-height: 1.1; /* Reduce the vertical spacing further */
     letter-spacing: -0.5px; /* Reduce spacing between letters */
 }
 

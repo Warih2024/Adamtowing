@@ -39,7 +39,7 @@ header p {
 }
 .square-button {
   display: inline-block;
-  width: 50px; /* Adjust size to your preferred square dimensions */
+  width: 500px; /* Adjust size to your preferred square dimensions */
   height: 50px;
   background-color: #007bff; /* Button background color */
   color: white; /* Text color */

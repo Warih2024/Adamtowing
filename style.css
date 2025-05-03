@@ -37,6 +37,22 @@ header h1 {
 header p {
   margin: 0.5rem 0 1rem;
 }
+.square-button {
+  display: inline-block;
+  width: 50px; /* Adjust size to your preferred square dimensions */
+  height: 50px;
+  background-color: #007bff; /* Button background color */
+  color: white; /* Text color */
+  text-align: center; /* Center the text horizontally */
+  line-height: 50px; /* Center the text vertically */
+  border-radius: 5px; /* Optional: add rounded corners */
+  text-decoration: none; /* Remove underline */
+  font-weight: bold; /* Make the text bold */
+}
+
+.square-button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}
 
 .cta-button {
   background-color: #ffcc00;

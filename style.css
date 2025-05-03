@@ -86,28 +86,6 @@ section {
   font-style: italic;
 }
 
-form {
-  background-color: white;
-  padding: 1rem;
-  border-radius: 5px;
-}
-
-form input, form select {
-  width: 100%;
-  padding: 0.5rem;
-  margin-bottom: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-}
-
-form button {
-  background-color: #1a73e8;
-  color: white;
-  border: none;
-  padding: 0.7rem 1.5rem;
-  border-radius: 5px;
-  font-size: 1rem;
-}
 
 footer {
   text-align: center;

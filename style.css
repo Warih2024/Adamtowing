@@ -41,6 +41,7 @@ header p {
   display: inline-block;
   width: 300px; /* Adjust size to your preferred square dimensions */
   height: 50px;
+  align-items: center;
   background-color: #FFA200; /* Button background color */
   color: white; /* Text color */
   text-align: center; /* Center the text horizontally */
